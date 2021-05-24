@@ -1,1 +1,5 @@
 Todo list
+Creating you rfisrt repostiuyoadd a file to the rep]check out the git history
+hand=on exercise
+Pulling from a remote source
+Minor note about the difference between get, GitHub and GitHub desktop
